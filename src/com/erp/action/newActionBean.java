@@ -10,6 +10,8 @@ package com.erp.action;
 public class newActionBean extends BaseActionBean{
     String test;
 
+   
+
     public String getTest() {
         return test;
     }
