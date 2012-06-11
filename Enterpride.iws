@@ -163,7 +163,7 @@
       <file leaf-file-name="newActionBean.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.35789475">
+            <state line="20" column="100" selection-start="379" selection-end="379" vertical-scroll-proportion="0.5964912">
               <folding />
             </state>
           </provider>
@@ -839,7 +839,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="738" extended-state="0" />
+    <frame x="0" y="0" width="1366" height="738" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
@@ -1052,7 +1052,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="3" selection-start="257" selection-end="257" vertical-scroll-proportion="0.35789475">
+        <state line="20" column="100" selection-start="379" selection-end="379" vertical-scroll-proportion="0.5964912">
           <folding />
         </state>
       </provider>
