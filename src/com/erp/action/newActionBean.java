@@ -9,6 +9,15 @@ package com.erp.action;
  */
 public class newActionBean extends BaseActionBean{
     String test;
+    String b;
+
+    public String getB() {
+        return b;
+    }
+
+    public void setB(String b) {
+        this.b = b;
+    }
 
     public String getTest() {
         return test;
