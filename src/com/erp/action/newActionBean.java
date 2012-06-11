@@ -12,7 +12,7 @@ public class newActionBean extends BaseActionBean{
     String b;
 
     public String getB() {
-        return b;
+        return "abc";
     }
 
     public void setB(String b) {
