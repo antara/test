@@ -35,4 +35,9 @@ public class newActionBean extends BaseActionBean{
         b=b+test;
         return b;
     }
+    public void newmtd()
+    {
+        b=b+test;
+    }
+
 }
