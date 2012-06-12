@@ -25,5 +25,11 @@ public class newActionBean extends BaseActionBean{
 
     public void setTest(String test) {
         this.test = test;
+
+    }
+    public String mtd()
+    {
+        b="abc";
+        return b;
     }
 }
