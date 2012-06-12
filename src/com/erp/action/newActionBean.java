@@ -27,9 +27,12 @@ public class newActionBean extends BaseActionBean{
         this.test = test;
 
     }
+  
     public String mtd()
     {
         b="abc";
+        test="def";
+        b=b+test;
         return b;
     }
 }
