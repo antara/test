@@ -39,5 +39,9 @@ public class newActionBean extends BaseActionBean{
     {
         b=b+test;
     }
+    public String a()
+    {
+        return test;
+    }
 
 }
