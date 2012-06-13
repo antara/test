@@ -163,7 +163,7 @@
       <file leaf-file-name="newActionBean.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+            <state line="41" column="64" selection-start="693" selection-end="693" vertical-scroll-proportion="0.40350878">
               <folding />
             </state>
           </provider>
@@ -174,7 +174,7 @@
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
             <state />
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
@@ -182,7 +182,7 @@
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
             <state />
           </provider>
         </entry>
@@ -567,15 +567,15 @@
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -655,24 +655,6 @@
       </option>
       <envs />
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
-      <option name="LOCAL" value="false" />
-      <server-settings>
-        <option name="DEPLOY_TOMCAT_MANAGER" value="false" />
-        <option name="BASE_DIRECTORY_NAME" value="_Enterpride18dea12" />
-      </server-settings>
-      <option name="DEPLOY_TOMCAT_MANAGER" value="false" />
-      <option name="BASE_DIRECTORY_NAME" value="_Enterpride18dea12" />
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="1483" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="false" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
       <JAVAEE_FACET FACET_ID="Enterpride/web/Web" DEPLOYMENT_SOURCE_NAME="exploded">
         <option name="CONTEXT_PATH" value="/" />
@@ -721,6 +703,24 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <server-settings>
+        <option name="DEPLOY_TOMCAT_MANAGER" value="false" />
+        <option name="BASE_DIRECTORY_NAME" value="_Enterpride18dea12" />
+      </server-settings>
+      <option name="DEPLOY_TOMCAT_MANAGER" value="false" />
+      <option name="BASE_DIRECTORY_NAME" value="_Enterpride18dea12" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1483" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
@@ -1029,7 +1029,7 @@
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
@@ -1037,7 +1037,7 @@
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
     </entry>
@@ -1050,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+        <state line="41" column="64" selection-start="693" selection-end="693" vertical-scroll-proportion="0.40350878">
           <folding />
         </state>
       </provider>

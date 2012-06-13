@@ -163,7 +163,7 @@
       <file leaf-file-name="newActionBean.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+            <state line="37" column="17" selection-start="670" selection-end="670" vertical-scroll-proportion="0.722807">
               <folding />
             </state>
           </provider>
@@ -174,7 +174,7 @@
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
             <state />
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
@@ -182,7 +182,7 @@
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
             <state />
           </provider>
         </entry>
@@ -1029,7 +1029,7 @@
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
@@ -1037,7 +1037,7 @@
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
     </entry>
@@ -1050,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+        <state line="37" column="17" selection-start="670" selection-end="670" vertical-scroll-proportion="0.722807">
           <folding />
         </state>
       </provider>

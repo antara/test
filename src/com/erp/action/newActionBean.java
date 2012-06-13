@@ -25,9 +25,7 @@ public class newActionBean extends BaseActionBean{
 
     public void setTest(String test) {
         this.test = test;
-
     }
-  
     public String mtd()
     {
         b="abc";
@@ -39,9 +37,9 @@ public class newActionBean extends BaseActionBean{
     {
         b=b+test;
     }
-    public String a()
-    {
-        return test;
-    }
-
+   public String a()
+   {
+       test="abc"+test;
+       return test;
+   }
 }
