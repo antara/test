@@ -163,7 +163,7 @@
       <file leaf-file-name="newActionBean.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+            <state line="46" column="28" selection-start="807" selection-end="807" vertical-scroll-proportion="0.8807018">
               <folding />
             </state>
           </provider>
@@ -1050,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/erp/action/newActionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8894737">
+        <state line="46" column="28" selection-start="807" selection-end="807" vertical-scroll-proportion="0.8807018">
           <folding />
         </state>
       </provider>

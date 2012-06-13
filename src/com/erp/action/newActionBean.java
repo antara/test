@@ -42,4 +42,9 @@ public class newActionBean extends BaseActionBean{
        test="abc"+test;
        return test;
    }
+     public String abc()
+   {
+       test="abc"+test+b;
+       return test;
+   }
 }
